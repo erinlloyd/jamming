@@ -1,3 +1,5 @@
+//Erin Lloyd's project
+
 import React, { Component } from 'react';
 import './App.css';
 
